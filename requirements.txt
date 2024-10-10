@@ -1,0 +1,6 @@
+nltk
+beautifulsoup4
+requests
+matplotlib
+tabulate
+regex
